@@ -1,1 +1,12 @@
 We have created 10 graphs for our analysis and conclusion
+
+a) Analysis_PopulationDensityRank - It shows  Maximum Confirmed Cases Rank vs Population Density Rank
+b) Analysis_PopulationRank -  It shows  Maximum Confirmed Cases Rank vs Population Rank
+c) DataVisualization_Gathering - Shows the total number of days each policy for gathering was followed by each state from 03/15/2020 - 11/15/2020
+d) DataVisualization_Internal_Restriction - Shows the total number of days each policy for internal restriction was followed by each state from 03/15/2020 - 11/15/2020
+e) DataVisualization_InternationalRestriction - Shows the total number of days each policy for international restriction was followed by each state from 03/15/2020 - 11/15/2020
+f) DataVisualization_PublicEventCanceling - Shows the total number of days each policy for public event closing was followed by each state from 03/15/2020 - 11/15/2020
+g) DataVisualization_PublicTransportationClosing - Shows the total number of days each policy for public transportation closing was followed by each state from 03/15/2020 - 11/15/2020
+h) DataVisualization_SchoolClosing - Shows the total number of days each policy for school closing  was followed by each state from 03/15/2020 - 11/15/2020
+i) DataVisualization_StayAtHome - Shows the total number of days each policy for stay at home was followed by each state from 03/15/2020 - 11/15/2020
+j) DataVisualization_WorkPlaceClosing - Shows the total number of days each policy for work place closing was followed by each state from 03/15/2020 - 11/15/2020
