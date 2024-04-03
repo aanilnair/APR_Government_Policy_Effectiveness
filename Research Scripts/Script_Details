@@ -1,4 +1,36 @@
 For this research we have used google colab. Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. Colab is especially well suited to data analysis, machine learning, data science, and education.
 
-Data_Cleansing - 
-Max_Confirmed_Case - 
+a) Data_Cleansing 
+Data cleansing is the process of resolving corrupt/inaccurate/irrelevant data. 
+It involves removing, correcting, modifying, or deleting such data to ensure its accuracy, reliability, and consistency. 
+As part of this research project, we have:
+
+  - Filtered United States data for a time range from March 1, 2020 to November 30, 2020
+  - Updated the column names
+  - Corrected the date format
+  - Removed null and duplicate values 
+ 
+
+b )Max_Confirmed_Case 
+Calculated maximum confirmed cases per state between March 1, 2020 to November 30, 2020 and ranked for for future need
+
+c) Analysis_Gathering_Restrictions
+ Analyzed the performance of 16 states by transforming the policy to readable format and calculating daily and weekly cases.
+
+d) Analysis_Internal_Restrictions
+ Analyzed the performance of 16 states by transforming the policy to readable format and calculating daily and weekly cases  
+
+e) Analysis_International_Restrictions
+ Analyzed the performance of 16 states by transforming the policy to readable format and calculating daily and weekly cases  
+
+f) Analysis_Public_Event_Closing
+ Analyzed the performance of 16 states by transforming the policy to readable format and calculating daily and weekly cases  
+
+g) Analysis_School_Closing
+ Analyzed the performance of 16 states by transforming the policy to readable format and calculating daily and weekly cases  
+
+h) Analysis_Stay_At_Home
+ Analyzed the performance of 16 states by transforming the policy to readable format and calculating daily and weekly cases  
+
+i) Analysis_Work_Closing
+ Analyzed the performance of 16 states by transforming the policy to readable format and calculating daily and weekly cases  
