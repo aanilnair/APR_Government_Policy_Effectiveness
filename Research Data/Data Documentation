@@ -1,4 +1,4 @@
-a) Cleansed_Data.csv
+1) Cleansed_Data.csv
 -----------------
 Data cleansing is the process of resolving corrupt/inaccurate/irrelevant data. 
 It involves removing, correcting, modifying, or deleting such data to ensure its accuracy, reliability, and consistency. As part of this research project, we have:
@@ -8,12 +8,11 @@ It involves removing, correcting, modifying, or deleting such data to ensure its
   - Corrected the date format
   - Removed null and duplicate values 
  
-b) Max_Confirmed_Cases_per_State 
+2) Max_Confirmed_Cases_per_State 
 -----------------------------
 This dataset lists the maximum confirmed cases per state from March 1, 2020 to November 30, 2020
 
-
-c) Comparison_Attributes
+3) Comparison_Attributes
 ---------------------
 The COVID spread across each state in the US has been analyzed using three different attributes- maximum confirmed cases,  population, and population density. 
 External sources include: 
@@ -21,7 +20,7 @@ External sources include:
 https://www2.census.gov/programs-surveys/decennial/2020/data/apportionment/population-density-data-table.pdf 
 https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html
 
-d) Analysis
+4) Analysis
 ----------
-Each government containment policy's effectiveness was analyzed individually by measuring their impact in COVID spread through varied states
+Each government containment policy's effectiveness was analyzed individually by measuring their impact in COVID spread through varied states using population and population desnity infromation
 
