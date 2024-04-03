@@ -1,0 +1,52 @@
+State,Rank_ConfirmedCases,Rank_PopulationDensity,Confirmed_Cases_Rank,Population_Density_Rank
+California,1,12,51,40
+Texas,2,25,50,27
+Florida,3,9,49,43
+Illinois,4,13,48,39
+New York,5,8,47,44
+Georgia,6,18,46,34
+Ohio,7,11,45,41
+Wisconsin,8,26,44,26
+Michigan,9,19,43,33
+Tennessee,10,21,42,31
+Pennsylvania,11,10,41,42
+New Jersey,12,2,40,50
+North Carolina,13,16,39,36
+Indiana,14,17,38,35
+Arizona,15,34,37,18
+Missouri,16,29,36,23
+Minnesota,17,31,35,21
+Colorado,18,38,34,14
+Alabama,19,28,33,24
+Virginia,20,15,32,37
+Louisiana,21,27,31,25
+Iowa,22,37,30,15
+Massachusetts,23,4,29,48
+South Carolina,24,20,28,32
+Maryland,25,6,27,46
+Oklahoma,26,36,26,16
+Utah,27,41,25,11
+Kentucky,28,24,24,28
+Washington,29,23,23,29
+Kansas,30,42,22,10
+Arkansas,31,35,21,17
+Mississippi,32,33,20,19
+Nevada,33,43,19,9
+Nebraska,34,44,18,8
+Connecticut,35,5,17,47
+Idaho,36,45,16,7
+New Mexico,37,46,15,6
+North Dakota,38,48,14,4
+South Dakota,39,47,13,5
+Oregon,40,40,12,12
+Montana,41,49,11,3
+Rhode Island,42,3,10,49
+West Virginia,43,30,9,22
+Delaware,44,7,8,45
+Wyoming,45,50,7,2
+Alaska,46,51,6,1
+Washington DC,47,1,5,51
+New Hampshire,48,22,4,30
+Hawaii,49,14,3,38
+Maine,50,39,2,13
+Vermont,51,32,1,20
